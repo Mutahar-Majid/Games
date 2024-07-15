@@ -5,14 +5,9 @@
 - [Rock, Paper, Scissors](#rock-paper-scissors)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-    - [Built with](#built-with)
+  - [Built with](#built-with)
 
 ## Overview
-
-### The challenge
 
 Users should be able to:
 

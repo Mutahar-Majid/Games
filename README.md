@@ -9,6 +9,10 @@
 
 ## Overview
 
+Steps to execute:
+- npm i in Frontend folder. npm start to run client
+- npm i in Backend folder. npm run dev for nodemon server
+
 Users should be able to:
 
 - View the optimal layout for the game depending on their device's screen size
